@@ -1,0 +1,1 @@
+# plugins-woocommerce-ajax-add-to-cart-for-variable-products
